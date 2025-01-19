@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply font-['Inter',sans-serif] antialiased;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply px-6 py-2 bg-primary-600 text-white rounded-full hover:bg-primary-700 transition-colors duration-300;
+  }
+
+  .btn-secondary {
+    @apply px-6 py-2 bg-secondary-600 text-white rounded-full hover:bg-secondary-700 transition-colors duration-300;
+  }
+}
+
+@layer utilities {
+  .text-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-primary-500 to-secondary-500;
+  }
+}
