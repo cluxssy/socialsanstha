@@ -223,8 +223,7 @@ const Contact = () => {
               </h3>
               <div className="aspect-w-16 aspect-h-9">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d19814.079205081878!2d77.19430656616157!3d28.609751845877202!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce2a99b6f9fa7%3A0x83a25e55f0af1c82!2sRashtrapati%20Bhavan!5e0!3m2!1sen!2sin!4v1737347718851!5m2!1sen!2sin"
-                  width="100%"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3505.242914099512!2d77.26186047552864!3d28.532417475719562!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce15e3a65c7ed%3A0x2915e112c185f737!2s1417A%2F13%2F1%2C%20Govindpuri%20Extension%2C%20Kalkaji%2C%20New%20Delhi%2C%20Delhi%20110019!5e0!3m2!1sen!2sin!4v1737348232943!5m2!1sen!2sin"
                   height="300"
                   style={{ border: 0 }}
                   allowFullScreen=""
