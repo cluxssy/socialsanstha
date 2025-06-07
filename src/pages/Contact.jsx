@@ -172,7 +172,7 @@ const Contact = () => {
                   <div>
                     <h4 className="font-medium text-white">Email</h4>
                     <p className="text-gray-300">
-                      magzant.corp@gmail.com
+                      contact@magzant.com
                     </p>
                   </div>
                 </div>
@@ -205,7 +205,7 @@ const Contact = () => {
               </h3>
               <div className="aspect-w-16 aspect-h-9">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3505.242914099512!2d77.26186047552864!3d28.532417475719562!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce15e3a65c7ed%3A0x2915e112c185f737!2s1417A%2F13%2F1%2C%20Govindpuri%20Extension%2C%20Kalkaji%2C%20New%20Delhi%2C%20Delhi%20110019!5e0!3m2!1sen!2sin!4v1737348232943!5m2!1sen!2sin"
+                  src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3836.3311900805134!2d88.45522100488047!3d22.582864994313056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sin!4v1749280981082!5m2!1sen!2sin"
                   height="300"
                   style={{ border: 0 }}
                   allowFullScreen=""

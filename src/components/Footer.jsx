@@ -14,7 +14,7 @@ const Footer = () => {
     social: [
       {
         name: 'Facebook',
-        href: '#',
+        href: 'https://www.facebook.com/people/Magzant/61576915991530/',
         icon: (props) => (
           <svg fill="currentColor" viewBox="0 0 24 24" {...props}>
             <path
@@ -27,7 +27,7 @@ const Footer = () => {
       },
       {
         name: 'Instagram',
-        href: 'www.instagram.com/socialsanstha',
+        href: 'https://www.instagram.com/magzant',
         icon: (props) => (
           <svg fill="currentColor" viewBox="0 0 24 24" {...props}>
             <path
@@ -39,7 +39,8 @@ const Footer = () => {
         ),
       },
       {
-        name: 'Twitter',
+        //dummy for X (twitter)
+        name: 'X',
         href: '#',
         icon: (props) => (
           <svg fill="currentColor" viewBox="0 0 24 24" {...props}>
@@ -49,7 +50,7 @@ const Footer = () => {
       },
       {
         name: 'LinkedIn',
-        href: '#',
+        href: 'https://www.linkedin.com/company/magzant',
         icon: (props) => (
           <svg fill="currentColor" viewBox="0 0 24 24" {...props}>
             <path
