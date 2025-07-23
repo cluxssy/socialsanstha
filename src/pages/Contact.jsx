@@ -57,7 +57,7 @@ const Contact = () => {
               className="space-y-6"
             >
               {/* Required Access Key */}
-              <input type="hidden" name="access_key" value="463ae8e5-285f-4731-a9f7-709890f22afd" />
+              <input type="hidden" name="access_key" value="a9028fd7-1f13-4202-9738-f3c874faf130" />
 
               {/* Name */}
               <div>
@@ -172,7 +172,7 @@ const Contact = () => {
                   <div>
                     <h4 className="font-medium text-white">Email</h4>
                     <p className="text-gray-300">
-                      contact@magzant.com
+                      socialsanstha@gmail.com
                     </p>
                   </div>
                 </div>
@@ -192,7 +192,7 @@ const Contact = () => {
                   </svg>
                   <div>
                     <h4 className="font-medium text-white">Phone</h4>
-                    <p className="text-gray-300">+91 7001978083<br /></p>
+                    <p className="text-gray-300">+91 7827547437 | +91 8920090057<br /></p>
                   </div>
                 </div>
               </div>
@@ -205,7 +205,7 @@ const Contact = () => {
               </h3>
               <div className="aspect-w-16 aspect-h-9">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d3836.3311900805134!2d88.45522100488047!3d22.582864994313056!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sin!4v1749280981082!5m2!1sen!2sin"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3502.073676007397!2d77.2759142262554!3d28.627553884305364!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce35319b6a7ff%3A0x127dca80423ad527!2sLaxmi%20Nagar%2C%20Block%20S1%2C%20Nanakpura%2C%20Shakarpur%2C%20Delhi%2C%20110092!5e0!3m2!1sen!2sin!4v1753265139939!5m2!1sen!2sin"
                   height="300"
                   style={{ border: 0 }}
                   allowFullScreen=""

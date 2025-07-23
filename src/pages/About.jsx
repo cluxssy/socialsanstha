@@ -59,7 +59,7 @@ const About = () => {
             >
               <h2 className="text-4xl font-bold text-white mb-6">Who We Are</h2>
               <p className="text-gray-300 text-lg mb-6">
-                Magzant is a dynamic digital marketing agency that combines creativity with data-driven strategies to help businesses thrive in the digital landscape. We believe in creating meaningful connections between brands and their audiences through innovative digital solutions.
+                Social Sanstha is a dynamic digital marketing agency that combines creativity with data-driven strategies to help businesses thrive in the digital landscape. We believe in creating meaningful connections between brands and their audiences through innovative digital solutions.
               </p>
               <p className="text-gray-300 text-lg">
                 Our team of digital experts brings together diverse skills and perspectives to deliver comprehensive digital marketing solutions that drive real results. From social media management to web development, we handle every aspect of your digital presence.

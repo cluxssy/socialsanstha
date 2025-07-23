@@ -59,7 +59,7 @@ const Home = () => {
   ];
 
   const [currentPhrase, setCurrentPhrase] = useState(0);
-  const [text] = useState("Magzant".split(""));
+  const [text] = useState("Social Sanstha".split(""));
   const textVariants = {
     hidden: {
       opacity: 0,

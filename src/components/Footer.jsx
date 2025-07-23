@@ -14,7 +14,7 @@ const Footer = () => {
     social: [
       {
         name: 'Facebook',
-        href: 'https://www.facebook.com/people/Magzant/61576915991530/',
+        href: 'https://www.facebook.com/people/Social Sanstha/61576915991530/',
         icon: (props) => (
           <svg fill="currentColor" viewBox="0 0 24 24" {...props}>
             <path
@@ -27,7 +27,7 @@ const Footer = () => {
       },
       {
         name: 'Instagram',
-        href: 'https://www.instagram.com/magzant',
+        href: 'https://www.instagram.com/Social Sanstha',
         icon: (props) => (
           <svg fill="currentColor" viewBox="0 0 24 24" {...props}>
             <path
@@ -50,7 +50,7 @@ const Footer = () => {
       },
       {
         name: 'LinkedIn',
-        href: 'https://www.linkedin.com/company/magzant',
+        href: 'https://www.linkedin.com/company/Social Sanstha',
         icon: (props) => (
           <svg fill="currentColor" viewBox="0 0 24 24" {...props}>
             <path
@@ -123,7 +123,7 @@ const Footer = () => {
           transition={{ delay: 0.5 }}
           className="mt-8 text-center text-base text-gray-400"
         >
-          &copy; {new Date().getFullYear()} Magzant. All rights reserved.
+          &copy; {new Date().getFullYear()} Social Sanstha. All rights reserved.
         </motion.p>
       </div>
     </footer>

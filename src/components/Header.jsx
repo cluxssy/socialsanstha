@@ -52,7 +52,7 @@ const Header = () => {
                   }
                 }}
               >
-                Magzant
+                Social Sanstha
               </motion.span>
               <motion.span
                 className="inline-block text-lg tracking-[0.3em] font-light text-accent-400 uppercase absolute top-0 left-0 z-10"
@@ -64,7 +64,7 @@ const Header = () => {
                 }}
                 style={{ y: 20 }}
               >
-                Magzant
+                Social Sanstha
               </motion.span>
             </motion.div>
           </Link>
